@@ -8,7 +8,6 @@
 <br>
 <p>Here's what you will see in the course:</p>
 <ul>
-<li><strong>Every line of code is written and explained on video</strong></li>
 <li>JUnit5 (local unit tests)</li>
 <li>JUnit4 (Instrumentation Tests)</li>
 <li>Mockito</li>
@@ -21,5 +20,3 @@
 </ul>
 <br>
 <br>
-<p><strong>Click here to watch the course demo:</strong></p>
-<p><a href="https://codingwithmitch.com/courses/unit-testing-android-2/demo/" class="btn btn-yellow" target="_blank"><span style="color: #000;">Watch Demo</span></a></p>
